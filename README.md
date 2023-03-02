@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/118412415/222513040-b35d2a9d-5fa2-4b3f-aff9-30c648e5ba7b.png">
 </p>
 
-# E-Verificator: The Ultimate Email Verification Tool
+# E-Verificator | The Ultimate Email Verification Tool
 Welcome to E-Verificator, the email tool that will make verifying codes a breeze! Do you dread having to provide your precious email address just to get a verification code? Fear not, for E-Verificator is here to save the day!
 
 With E-Verificator, you can use temporary email addresses to receive verification codes from your favorite services without giving away your personal email. It's like having a secret identity, but for email verification.
