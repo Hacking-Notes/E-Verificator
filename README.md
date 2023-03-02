@@ -14,6 +14,10 @@ Not only does E-Verificator protect your privacy, it also saves you time. Time t
 
 So don't be a victim of email spam and verification woes. Use E-Verificator to take control of your email destiny. You won't regret it. Unless, of course, you enjoy sorting through a sea of spam emails. But we won't judge.
 
+<br>
+
+<b>The program currently searches for a 6-digit number in received emails, but can be modified to retrieve other information.</b>
+
 ## Commands
 
 Install the requirements
